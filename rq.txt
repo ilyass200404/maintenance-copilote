@@ -1,0 +1,8 @@
+langchain>=1.0,<2
+langgraph>=1.0,<2
+langchain-google-genai>=3.0
+langchain-chroma>=1.0
+langchain-text-splitters>=1.0
+pypdf>=5.0
+python-dotenv>=1.0
+pytest>=8.0
